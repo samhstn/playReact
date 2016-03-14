@@ -1,5 +1,4 @@
-M
-rts = {
+module.exports = {
   entry: {
     javascript: './app.js',
     html: './index.html'
@@ -26,4 +25,3 @@ rts = {
     ]
   }
 };
-
